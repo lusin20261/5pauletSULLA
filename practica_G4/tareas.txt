@@ -1,0 +1,5 @@
+1 : limpiar los escrementod de mi perros
+2 : tender mi cama 
+3 : estudiar
+4 : ir al cole 
+5 : hacer caso
